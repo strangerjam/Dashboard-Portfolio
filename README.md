@@ -11,8 +11,10 @@
 ### Результаты опроса
 ![image](https://github.com/strangerjam/Dashboards/assets/64131776/f1dc81c1-9049-430a-b035-4b8b5d305723)
 
-### Статистика мероприятия (версия 1)
+### Статистика мероприятия
+
+#### версия 1
 ![image](https://github.com/strangerjam/Dashboards/assets/64131776/df56b687-e508-4b00-920e-c67dea31b1ca)
 
-### Статистика мероприятия (версия 2)
+#### версия 2
 ![image](https://github.com/strangerjam/Dashboards/assets/64131776/8adb492d-f074-4187-a726-3cd888903381)
